@@ -5,3 +5,15 @@ This was a project I had been ordered to do, basically the company had an outdat
 
 
 ![](utrustningstart1.jpg)
+
+![](utrustning.jpg)
+
+![](utrustning_databas_tables.jpg)
+
+![](database_fields_inventering.jpg)
+
+![](database_fields_utrustning.jpg)
+
+![](relationships_database_1.jpg)
+
+![](relationships_database_2.jpg)
