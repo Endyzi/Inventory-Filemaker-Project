@@ -6,16 +6,20 @@ This was a project I had been ordered to do, basically the company had an outdat
 
 ![](utrustningstart1.jpg)
 
-First look at the overiew of the Inventory for each user
+Overiew of the Inventory for each user
 
 ![](utrustning.jpg)
+View of the add new inventory
 
 ![](utrustning_databas_tables.jpg)
+View of the database tables for the add inventory
 
 ![](database_fields_inventering.jpg)
+View of the database tables for the general fields
 
 ![](database_fields_utrustning.jpg)
-
+View of the database tables for the general fields
 ![](relationships_database_1.jpg)
-
+View of the reltionships for the database
 ![](relationships_database_2.jpg)
+View of the reltionships for the database
